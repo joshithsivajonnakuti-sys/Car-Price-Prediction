@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local datasets
+car_data.csv
+cleaned_car_data.csv
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
